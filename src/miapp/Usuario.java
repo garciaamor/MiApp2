@@ -5,7 +5,9 @@ package miapp;
  * @author jgarciaamor
  */
 public class Usuario {
-    
+    /**
+     * EXAMEN CONTORNOS 14 MARZO
+     */
     private String usuario;
     private String contrasinal;
 

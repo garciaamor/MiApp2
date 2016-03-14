@@ -6,6 +6,9 @@ package miapp;
  */
 public class Grupo {
 
+    /**
+     * EXAMEN CONTORNOS 14 MARZO
+     */
     private String nombreGrup;
 
     /**
